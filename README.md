@@ -1,2 +1,2 @@
 # Customers-Name-Gender-Classification
-Given names of customers, an attempt at predicting their gender.
+Given that we had only 30% of our customers' gender data. Given an increasing need for establishing the proportions of Male and Female profiles within our customer base, then the problem statement is- with a name, can we identify the gender of the person?
