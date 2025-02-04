@@ -1,2 +1,8 @@
 # Customers-Name-Gender-Classification
-Given that we had only 30% of our customers' gender data and an increasing need for establishing the proportions of Male and Female profiles within our customer base, then the problem statement is- with a name, can we identify the gender of the person?
+## Overview
+An end-to-end automation pipeline that predicts gender from names using machine learning. This system eliminates manual data processing by:
+
+- Automating data cleaning and feature extraction
+- Providing batch processing for large datasets
+- Generating real-time predictions
+- Auto-updating model with scheduled retraining
